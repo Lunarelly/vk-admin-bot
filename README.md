@@ -1,2 +1,2 @@
 # vk-admin-bot
-VK Chat management bot (primarily for Minecraft projects)
+Publishing it now since it was leaked anyway
