@@ -1,0 +1,8 @@
+{
+  "chatCommandPrefix": "/c",
+  "rconCommandSymbol": "/",
+  "token": "",
+  "rconIp": "localhost",
+  "rconPort": 19132,
+  "rconPassword": ""
+}
